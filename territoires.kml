@@ -4,7 +4,7 @@
     <name>Territoires restitués depuis plus d'un an</name>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>EMMERIN 13</name>
-      <description>Restitué le 19.07.2025 — 427 jours</description><MultiGeometry>
+      <description>Restitué le 19.07.2025 — 431 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -18,7 +18,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>EMMERIN APPT 1</name>
-      <description>Restitué le 11.09.2025 — 373 jours</description><MultiGeometry>
+      <description>Restitué le 11.09.2025 — 377 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -32,7 +32,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>ENNETIERES 2</name>
-      <description>Restitué le 17.07.2025 — 429 jours</description><MultiGeometry>
+      <description>Restitué le 17.07.2025 — 433 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -46,7 +46,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>ENNETIERES 3</name>
-      <description>Restitué le 02.06.2025 — 474 jours</description><MultiGeometry>
+      <description>Restitué le 02.06.2025 — 478 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -60,7 +60,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A01</name>
-      <description>Restitué le 16.08.2025 — 399 jours</description><MultiGeometry>
+      <description>Restitué le 16.08.2025 — 403 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -74,7 +74,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A03</name>
-      <description>Restitué le 09.06.2025 — 467 jours</description><MultiGeometry>
+      <description>Restitué le 09.06.2025 — 471 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -88,7 +88,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A04</name>
-      <description>Restitué le 16.08.2025 — 399 jours</description><MultiGeometry>
+      <description>Restitué le 16.08.2025 — 403 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -102,7 +102,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A06</name>
-      <description>Restitué le 23.01.2025 — 604 jours</description><MultiGeometry>
+      <description>Restitué le 23.01.2025 — 608 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -116,7 +116,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A07</name>
-      <description>Restitué le 19.06.2025 — 457 jours</description><MultiGeometry>
+      <description>Restitué le 19.06.2025 — 461 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -130,7 +130,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A09</name>
-      <description>Restitué le 14.09.2024 — 735 jours</description><MultiGeometry>
+      <description>Restitué le 14.09.2024 — 739 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -144,7 +144,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A13</name>
-      <description>Restitué le 06.02.2025 — 590 jours</description><MultiGeometry>
+      <description>Restitué le 06.02.2025 — 594 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -158,7 +158,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A16</name>
-      <description>Restitué le 14.10.2024 — 705 jours</description><MultiGeometry>
+      <description>Restitué le 14.10.2024 — 709 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -172,7 +172,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A17</name>
-      <description>Restitué le 17.06.2024 — 824 jours</description><MultiGeometry>
+      <description>Restitué le 17.06.2024 — 828 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -186,7 +186,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A24</name>
-      <description>Restitué le 19.02.2025 — 577 jours</description><MultiGeometry>
+      <description>Restitué le 19.02.2025 — 581 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -200,7 +200,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A27</name>
-      <description>Restitué le 28.12.2024 — 630 jours</description><MultiGeometry>
+      <description>Restitué le 28.12.2024 — 634 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -214,7 +214,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A28</name>
-      <description>Restitué le 14.04.2025 — 523 jours</description><MultiGeometry>
+      <description>Restitué le 14.04.2025 — 527 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -228,7 +228,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A29</name>
-      <description>Restitué le 18.05.2025 — 489 jours</description><MultiGeometry>
+      <description>Restitué le 18.05.2025 — 493 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -242,7 +242,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A31</name>
-      <description>Restitué le 15.07.2024 — 796 jours</description><MultiGeometry>
+      <description>Restitué le 15.07.2024 — 800 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -256,7 +256,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A33</name>
-      <description>Restitué le 31.05.2024 — 841 jours</description><MultiGeometry>
+      <description>Restitué le 31.05.2024 — 845 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -270,7 +270,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A34</name>
-      <description>Restitué le 29.04.2024 — 873 jours</description><MultiGeometry>
+      <description>Restitué le 29.04.2024 — 877 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -284,7 +284,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A36</name>
-      <description>Restitué le 29.04.2024 — 873 jours</description><MultiGeometry>
+      <description>Restitué le 29.04.2024 — 877 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -298,7 +298,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A42</name>
-      <description>Restitué le 19.07.2025 — 427 jours</description><MultiGeometry>
+      <description>Restitué le 19.07.2025 — 431 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -312,7 +312,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A43</name>
-      <description>Restitué le 18.05.2025 — 489 jours</description><MultiGeometry>
+      <description>Restitué le 18.05.2025 — 493 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -326,7 +326,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A45</name>
-      <description>Restitué le 01.05.2025 — 506 jours</description><MultiGeometry>
+      <description>Restitué le 01.05.2025 — 510 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -340,7 +340,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A46</name>
-      <description>Restitué le 14.09.2024 — 735 jours</description><MultiGeometry>
+      <description>Restitué le 14.09.2024 — 739 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -354,7 +354,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>FACHES TH. APPT A47</name>
-      <description>Restitué le 20.06.2025 — 456 jours</description><MultiGeometry>
+      <description>Restitué le 20.06.2025 — 460 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -368,7 +368,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>FACHES THUMESNIL 21</name>
-      <description>Restitué le 13.09.2025 — 371 jours</description><MultiGeometry>
+      <description>Restitué le 13.09.2025 — 375 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -382,7 +382,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>FACHES THUMESNIL 32</name>
-      <description>Restitué le 26.08.2025 — 389 jours</description><MultiGeometry>
+      <description>Restitué le 26.08.2025 — 393 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -396,7 +396,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>FACHES THUMESNIL 41</name>
-      <description>Restitué le 19.07.2025 — 427 jours</description><MultiGeometry>
+      <description>Restitué le 19.07.2025 — 431 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -410,7 +410,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>FACHES THUMESNIL 44</name>
-      <description>Restitué le 11.09.2025 — 373 jours</description><MultiGeometry>
+      <description>Restitué le 11.09.2025 — 377 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -424,7 +424,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>FACHES THUMESNIL 51</name>
-      <description>Restitué le 14.06.2025 — 462 jours</description><MultiGeometry>
+      <description>Restitué le 14.06.2025 — 466 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -437,8 +437,22 @@
       </MultiGeometry>
     </Placemark>
     <Placemark>
+      <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>FACHES THUMESNIL 52</name>
+      <description>Restitué le 20.09.2025 — 368 jours</description><MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>3.06344747543335,50.59880706044628,100 3.065362572669983,50.5991543738686,100 3.066242337226868,50.597795750884906,100 3.0669611692428593,50.59803751373292,100 3.068313002586365,50.59861637747752,100 3.068388104438782,50.59811923610494,100 3.066038489341736,50.59747226344159,100 3.0650782585144043,50.598881971401205,100 3.0635118484497075,50.59862659265616,100 3.06344747543335,50.59880706044628,100 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>FACHES THUMESNIL 53</name>
-      <description>Restitué le 23.07.2025 — 423 jours</description><MultiGeometry>
+      <description>Restitué le 23.07.2025 — 427 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -452,7 +466,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>FACHES THUMESNIL 62</name>
-      <description>Restitué le 21.07.2025 — 425 jours</description><MultiGeometry>
+      <description>Restitué le 21.07.2025 — 429 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -466,7 +480,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>FACHES THUMESNIL 64</name>
-      <description>Restitué le 13.06.2025 — 463 jours</description><MultiGeometry>
+      <description>Restitué le 13.06.2025 — 467 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -480,7 +494,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>FACHES THUMESNIL 76</name>
-      <description>Restitué le 28.08.2025 — 387 jours</description><MultiGeometry>
+      <description>Restitué le 28.08.2025 — 391 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -493,8 +507,22 @@
       </MultiGeometry>
     </Placemark>
     <Placemark>
+      <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>FACHES THUMESNIL 80</name>
+      <description>Restitué le 22.09.2025 — 366 jours</description><MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>3.0642628813456207,50.60289634316822,100 3.064438507691607,50.60300189030788,100 3.0644814374076295,50.603110841945636,100 3.064712184631038,50.60306317563515,100 3.0645297333380848,50.6023005081009,100 3.064470704978604,50.601868097356565,100 3.0643258171871595,50.60125522492827,100 3.0641233741404332,50.60060489045689,100 3.063542349870417,50.59886154115261,100 3.0631041544759268,50.59880706044628,100 3.0633241261550785,50.59984558805345,100 3.0621600384602803,50.60086025846749,100 3.062723295167556,50.601170103126435,100 3.0632221573008382,50.60147654089253,100 3.0625569964121495,50.60221538818971,100 3.0642628813456207,50.60289634316822,100 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>FACHES THUMESNIL 90</name>
-      <description>Restitué le 02.09.2025 — 382 jours</description><MultiGeometry>
+      <description>Restitué le 02.09.2025 — 386 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -508,7 +536,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>FACHES THUMESNIL 101</name>
-      <description>Restitué le 20.05.2025 — 487 jours</description><MultiGeometry>
+      <description>Restitué le 20.05.2025 — 491 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -522,7 +550,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>HAMEAU D'HAS 1</name>
-      <description>Restitué le 04.12.2024 — 654 jours</description><MultiGeometry>
+      <description>Restitué le 04.12.2024 — 658 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -536,7 +564,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>LESQUIN 2</name>
-      <description>Restitué le 04.08.2025 — 411 jours</description><MultiGeometry>
+      <description>Restitué le 04.08.2025 — 415 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -550,7 +578,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>LESQUIN 4</name>
-      <description>Restitué le 06.09.2025 — 378 jours</description><MultiGeometry>
+      <description>Restitué le 06.09.2025 — 382 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -564,7 +592,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>LESQUIN 6</name>
-      <description>Restitué le 08.06.2025 — 468 jours</description><MultiGeometry>
+      <description>Restitué le 08.06.2025 — 472 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -578,7 +606,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>LESQUIN 10</name>
-      <description>Restitué le 29.08.2025 — 386 jours</description><MultiGeometry>
+      <description>Restitué le 29.08.2025 — 390 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -592,7 +620,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>LESQUIN 17</name>
-      <description>Restitué le 06.09.2025 — 378 jours</description><MultiGeometry>
+      <description>Restitué le 06.09.2025 — 382 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -605,8 +633,22 @@
       </MultiGeometry>
     </Placemark>
     <Placemark>
+      <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>LESQUIN 20</name>
+      <description>Restitué le 20.09.2025 — 368 jours</description><MultiGeometry>
+        <Polygon>
+          <tessellate>1</tessellate>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>3.1259107589721684,50.596798040361286,100 3.1270265579223637,50.59589225071732,100 3.1249612569808964,50.59492174247021,100 3.124199509620667,50.594966011703015,100 3.123046159744263,50.59493876910315,100 3.1227162480354314,50.59501198355453,100 3.1226330995559697,50.59489790517378,100 3.1224882602691655,50.59478723185364,100 3.122171759605408,50.59476509715839,100 3.121710419654846,50.59470209835336,100 3.1212732195854187,50.59459653259921,100 3.1210586428642277,50.59453012821321,100 3.1208172440528874,50.594458615692716,100 3.120573163032532,50.59433091449311,100 3.1203854084014897,50.594301968839694,100 3.120176196098328,50.594557371049554,100 3.1196612119674687,50.59484001454647,100 3.118454217910767,50.59513627759495,100 3.1188619136810307,50.5954325387788,100 3.1205946207046513,50.59557896603168,100 3.1239151954650883,50.59577647183727,100 3.1259107589721684,50.596798040361286,100 </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+          <altitudeMode>relativeToGround</altitudeMode>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+    <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>LESQUIN 25</name>
-      <description>Restitué le 07.05.2025 — 500 jours</description><MultiGeometry>
+      <description>Restitué le 07.05.2025 — 504 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -620,7 +662,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>LESQUIN 27</name>
-      <description>Restitué le 20.07.2025 — 426 jours</description><MultiGeometry>
+      <description>Restitué le 20.07.2025 — 430 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -634,7 +676,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>LESQUIN 28</name>
-      <description>Restitué le 28.08.2025 — 387 jours</description><MultiGeometry>
+      <description>Restitué le 28.08.2025 — 391 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -648,7 +690,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>LESQUIN 31</name>
-      <description>Restitué le 25.07.2025 — 421 jours</description><MultiGeometry>
+      <description>Restitué le 25.07.2025 — 425 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -662,7 +704,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>LESQUIN 37</name>
-      <description>Restitué le 10.06.2025 — 466 jours</description><MultiGeometry>
+      <description>Restitué le 10.06.2025 — 470 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -676,7 +718,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>LESQUIN 38</name>
-      <description>Restitué le 21.05.2025 — 486 jours</description><MultiGeometry>
+      <description>Restitué le 21.05.2025 — 490 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -690,7 +732,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>LESQUIN 41</name>
-      <description>Restitué le 02.08.2025 — 413 jours</description><MultiGeometry>
+      <description>Restitué le 02.08.2025 — 417 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -704,7 +746,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>LESQUIN 43</name>
-      <description>Restitué le 20.06.2025 — 456 jours</description><MultiGeometry>
+      <description>Restitué le 20.06.2025 — 460 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -718,7 +760,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>LESQUIN APPT 6</name>
-      <description>Restitué le 10.03.2025 — 558 jours</description><MultiGeometry>
+      <description>Restitué le 10.03.2025 — 562 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -732,7 +774,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>LESQUIN APPT 10</name>
-      <description>Restitué le 24.02.2025 — 572 jours</description><MultiGeometry>
+      <description>Restitué le 24.02.2025 — 576 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -746,7 +788,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>LESQUIN APPT 11</name>
-      <description>Restitué le 31.08.2024 — 749 jours</description><MultiGeometry>
+      <description>Restitué le 31.08.2024 — 753 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -760,7 +802,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>LESQUIN APPT 12</name>
-      <description>Restitué le 31.05.2024 — 841 jours</description><MultiGeometry>
+      <description>Restitué le 31.05.2024 — 845 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -774,7 +816,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>LESQUIN APPT 15</name>
-      <description>Restitué le 24.04.2024 — 878 jours</description><MultiGeometry>
+      <description>Restitué le 24.04.2024 — 882 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -788,7 +830,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>LESQUIN APPT 17</name>
-      <description>Restitué le 26.05.2025 — 481 jours</description><MultiGeometry>
+      <description>Restitué le 26.05.2025 — 485 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -802,7 +844,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>LOOS 4</name>
-      <description>Restitué le 13.09.2025 — 371 jours</description><MultiGeometry>
+      <description>Restitué le 13.09.2025 — 375 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -816,7 +858,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 9</name>
-      <description>Restitué le 16.04.2025 — 521 jours</description><MultiGeometry>
+      <description>Restitué le 16.04.2025 — 525 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -830,7 +872,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 12</name>
-      <description>Restitué le 01.09.2025 — 383 jours</description><MultiGeometry>
+      <description>Restitué le 01.09.2025 — 387 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -844,7 +886,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 15</name>
-      <description>Restitué le 03.08.2025 — 412 jours</description><MultiGeometry>
+      <description>Restitué le 03.08.2025 — 416 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -858,7 +900,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 16</name>
-      <description>Restitué le 05.09.2025 — 379 jours</description><MultiGeometry>
+      <description>Restitué le 05.09.2025 — 383 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -872,7 +914,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 24</name>
-      <description>Restitué le 17.04.2025 — 520 jours</description><MultiGeometry>
+      <description>Restitué le 17.04.2025 — 524 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -886,7 +928,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 25</name>
-      <description>Restitué le 07.06.2025 — 469 jours</description><MultiGeometry>
+      <description>Restitué le 07.06.2025 — 473 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -900,7 +942,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 27</name>
-      <description>Restitué le 07.06.2025 — 469 jours</description><MultiGeometry>
+      <description>Restitué le 07.06.2025 — 473 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -914,7 +956,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 29</name>
-      <description>Restitué le 06.09.2025 — 378 jours</description><MultiGeometry>
+      <description>Restitué le 06.09.2025 — 382 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -928,7 +970,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 33</name>
-      <description>Restitué le 07.08.2025 — 408 jours</description><MultiGeometry>
+      <description>Restitué le 07.08.2025 — 412 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -942,7 +984,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 36</name>
-      <description>Restitué le 16.05.2025 — 491 jours</description><MultiGeometry>
+      <description>Restitué le 16.05.2025 — 495 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -956,7 +998,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 37</name>
-      <description>Restitué le 27.07.2025 — 419 jours</description><MultiGeometry>
+      <description>Restitué le 27.07.2025 — 423 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -970,7 +1012,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 46</name>
-      <description>Restitué le 24.07.2025 — 422 jours</description><MultiGeometry>
+      <description>Restitué le 24.07.2025 — 426 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -984,7 +1026,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 49</name>
-      <description>Restitué le 05.06.2025 — 471 jours</description><MultiGeometry>
+      <description>Restitué le 05.06.2025 — 475 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -998,7 +1040,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 60</name>
-      <description>Restitué le 14.09.2025 — 370 jours</description><MultiGeometry>
+      <description>Restitué le 14.09.2025 — 374 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1012,7 +1054,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 61</name>
-      <description>Restitué le 29.06.2025 — 447 jours</description><MultiGeometry>
+      <description>Restitué le 29.06.2025 — 451 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1026,7 +1068,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 64</name>
-      <description>Restitué le 06.05.2025 — 501 jours</description><MultiGeometry>
+      <description>Restitué le 06.05.2025 — 505 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1039,36 +1081,8 @@
       </MultiGeometry>
     </Placemark>
     <Placemark>
-      <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 72</name>
-      <description>Restitué le 15.05.2025 — 492 jours</description><MultiGeometry>
-        <Polygon>
-          <tessellate>1</tessellate>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>3.0737829394550564,50.606597161167265,100 3.073020936996325,50.605885618946495,100 3.0713681429308353,50.60681504754223,100 3.0720603846011008,50.607421038717106,100 3.0737829394550564,50.606597161167265,100 </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-          <altitudeMode>relativeToGround</altitudeMode>
-        </Polygon>
-      </MultiGeometry>
-    </Placemark>
-    <Placemark>
-      <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 74</name>
-      <description>Restitué le 25.05.2025 — 482 jours</description><MultiGeometry>
-        <Polygon>
-          <tessellate>1</tessellate>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>3.075436951526403,50.605531546080904,100 3.075313568115235,50.60565751461727,100 3.0750507116317753,50.605528141521184,100 3.0746322870254517,50.60600137295927,100 3.07575234017592,50.60810532273981,100 3.07587039689488,50.60822107129192,100 3.076917349459283,50.60656992529944,100 3.0762031021937912,50.60601839558417,100 3.075848932036909,50.60574943739041,100 3.075436951526403,50.605531546080904,100 </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-          <altitudeMode>relativeToGround</altitudeMode>
-        </Polygon>
-      </MultiGeometry>
-    </Placemark>
-    <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 80</name>
-      <description>Restitué le 10.06.2025 — 466 jours</description><MultiGeometry>
+      <description>Restitué le 10.06.2025 — 470 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1082,7 +1096,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 82</name>
-      <description>Restitué le 27.02.2025 — 569 jours</description><MultiGeometry>
+      <description>Restitué le 27.02.2025 — 573 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1096,7 +1110,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 83</name>
-      <description>Restitué le 27.02.2025 — 569 jours</description><MultiGeometry>
+      <description>Restitué le 27.02.2025 — 573 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1110,7 +1124,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 84</name>
-      <description>Restitué le 16.07.2025 — 430 jours</description><MultiGeometry>
+      <description>Restitué le 16.07.2025 — 434 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1124,7 +1138,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>RONCHIN 85</name>
-      <description>Restitué le 12.06.2025 — 464 jours</description><MultiGeometry>
+      <description>Restitué le 12.06.2025 — 468 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1138,7 +1152,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 2</name>
-      <description>Restitué le 03.04.2024 — 899 jours</description><MultiGeometry>
+      <description>Restitué le 03.04.2024 — 903 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1152,7 +1166,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 4</name>
-      <description>Restitué le 15.06.2024 — 826 jours</description><MultiGeometry>
+      <description>Restitué le 15.06.2024 — 830 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1166,7 +1180,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 5</name>
-      <description>Restitué le 22.02.2024 — 940 jours</description><MultiGeometry>
+      <description>Restitué le 22.02.2024 — 944 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1180,7 +1194,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 6</name>
-      <description>Restitué le 12.02.2024 — 950 jours</description><MultiGeometry>
+      <description>Restitué le 12.02.2024 — 954 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1194,7 +1208,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 7</name>
-      <description>Restitué le 26.03.2024 — 907 jours</description><MultiGeometry>
+      <description>Restitué le 26.03.2024 — 911 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1208,7 +1222,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 8</name>
-      <description>Restitué le 01.06.2024 — 840 jours</description><MultiGeometry>
+      <description>Restitué le 01.06.2024 — 844 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1222,7 +1236,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 9</name>
-      <description>Restitué le 30.03.2024 — 903 jours</description><MultiGeometry>
+      <description>Restitué le 30.03.2024 — 907 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1236,7 +1250,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 10</name>
-      <description>Restitué le 05.07.2024 — 806 jours</description><MultiGeometry>
+      <description>Restitué le 05.07.2024 — 810 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1250,7 +1264,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 11</name>
-      <description>Restitué le 18.07.2024 — 793 jours</description><MultiGeometry>
+      <description>Restitué le 18.07.2024 — 797 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1264,7 +1278,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 12</name>
-      <description>Restitué le 19.01.2025 — 608 jours</description><MultiGeometry>
+      <description>Restitué le 19.01.2025 — 612 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1278,7 +1292,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 13</name>
-      <description>Restitué le 28.08.2024 — 752 jours</description><MultiGeometry>
+      <description>Restitué le 28.08.2024 — 756 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1292,7 +1306,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 14</name>
-      <description>Restitué le 17.06.2024 — 824 jours</description><MultiGeometry>
+      <description>Restitué le 17.06.2024 — 828 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1306,7 +1320,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 15</name>
-      <description>Restitué le 15.07.2023 — 1162 jours</description><MultiGeometry>
+      <description>Restitué le 15.07.2023 — 1166 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1320,7 +1334,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 17</name>
-      <description>Restitué le 24.11.2023 — 1030 jours</description><MultiGeometry>
+      <description>Restitué le 24.11.2023 — 1034 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1334,7 +1348,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 18</name>
-      <description>Restitué le 21.02.2024 — 941 jours</description><MultiGeometry>
+      <description>Restitué le 21.02.2024 — 945 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1348,7 +1362,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 19</name>
-      <description>Restitué le 01.07.2025 — 445 jours</description><MultiGeometry>
+      <description>Restitué le 01.07.2025 — 449 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1361,22 +1375,8 @@
       </MultiGeometry>
     </Placemark>
     <Placemark>
-      <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 24</name>
-      <description>Restitué le 16.04.2025 — 521 jours</description><MultiGeometry>
-        <Polygon>
-          <tessellate>1</tessellate>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>3.0928445113871343,50.601823834615274,100 3.0916160381006783,50.601262034665766,100 3.0899447722567213,50.60262055758916,100 3.0907711692894457,50.60299508082211,100 3.0912326637363035,50.60314488928072,100 3.0928445113871343,50.601823834615274,100 </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-          <altitudeMode>relativeToGround</altitudeMode>
-        </Polygon>
-      </MultiGeometry>
-    </Placemark>
-    <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 25</name>
-      <description>Restitué le 14.09.2024 — 735 jours</description><MultiGeometry>
+      <description>Restitué le 14.09.2024 — 739 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1390,7 +1390,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 27</name>
-      <description>Restitué le 11.07.2024 — 800 jours</description><MultiGeometry>
+      <description>Restitué le 11.07.2024 — 804 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1404,7 +1404,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 28</name>
-      <description>Restitué le 21.09.2024 — 728 jours</description><MultiGeometry>
+      <description>Restitué le 21.09.2024 — 732 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1418,7 +1418,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 29</name>
-      <description>Restitué le 08.04.2024 — 894 jours</description><MultiGeometry>
+      <description>Restitué le 08.04.2024 — 898 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1432,7 +1432,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 30</name>
-      <description>Restitué le 31.08.2023 — 1115 jours</description><MultiGeometry>
+      <description>Restitué le 31.08.2023 — 1119 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1446,7 +1446,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 31</name>
-      <description>Restitué le 03.05.2024 — 869 jours</description><MultiGeometry>
+      <description>Restitué le 03.05.2024 — 873 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1460,7 +1460,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 32</name>
-      <description>Restitué le 12.02.2024 — 950 jours</description><MultiGeometry>
+      <description>Restitué le 12.02.2024 — 954 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1474,7 +1474,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 33</name>
-      <description>Restitué le 31.08.2024 — 749 jours</description><MultiGeometry>
+      <description>Restitué le 31.08.2024 — 753 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1488,7 +1488,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 34</name>
-      <description>Restitué le 11.01.2024 — 982 jours</description><MultiGeometry>
+      <description>Restitué le 11.01.2024 — 986 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1502,7 +1502,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 35</name>
-      <description>Restitué le 17.01.2024 — 976 jours</description><MultiGeometry>
+      <description>Restitué le 17.01.2024 — 980 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1516,7 +1516,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 36</name>
-      <description>Restitué le 26.03.2024 — 907 jours</description><MultiGeometry>
+      <description>Restitué le 26.03.2024 — 911 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1530,7 +1530,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 37</name>
-      <description>Restitué le 23.05.2024 — 849 jours</description><MultiGeometry>
+      <description>Restitué le 23.05.2024 — 853 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1544,7 +1544,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 38</name>
-      <description>Restitué le 05.09.2024 — 744 jours</description><MultiGeometry>
+      <description>Restitué le 05.09.2024 — 748 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1558,7 +1558,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 41</name>
-      <description>Restitué le 26.03.2024 — 907 jours</description><MultiGeometry>
+      <description>Restitué le 26.03.2024 — 911 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1572,7 +1572,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>RONCHIN APPT 46</name>
-      <description>Restitué le 02.10.2024 — 717 jours</description><MultiGeometry>
+      <description>Restitué le 02.10.2024 — 721 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1586,7 +1586,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>TEMPLEMARS 3</name>
-      <description>Restitué le 26.07.2025 — 420 jours</description><MultiGeometry>
+      <description>Restitué le 26.07.2025 — 424 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1600,7 +1600,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>TEMPLEMARS 6</name>
-      <description>Restitué le 15.04.2025 — 522 jours</description><MultiGeometry>
+      <description>Restitué le 15.04.2025 — 526 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1614,7 +1614,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>TEMPLEMARS 19</name>
-      <description>Restitué le 24.06.2025 — 452 jours</description><MultiGeometry>
+      <description>Restitué le 24.06.2025 — 456 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1628,7 +1628,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>TEMPLEMARS 23</name>
-      <description>Restitué le 09.11.2024 — 679 jours</description><MultiGeometry>
+      <description>Restitué le 09.11.2024 — 683 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1642,7 +1642,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>VENDEVILLE 2</name>
-      <description>Restitué le 03.03.2025 — 565 jours</description><MultiGeometry>
+      <description>Restitué le 03.03.2025 — 569 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1656,7 +1656,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>VENDEVILLE 3</name>
-      <description>Restitué le 20.08.2025 — 395 jours</description><MultiGeometry>
+      <description>Restitué le 20.08.2025 — 399 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1670,7 +1670,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>VENDEVILLE APPT 1</name>
-      <description>Restitué le 20.01.2024 — 973 jours</description><MultiGeometry>
+      <description>Restitué le 20.01.2024 — 977 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1684,7 +1684,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>WATTIGNIES 3</name>
-      <description>Restitué le 01.09.2025 — 383 jours</description><MultiGeometry>
+      <description>Restitué le 01.09.2025 — 387 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1697,22 +1697,8 @@
       </MultiGeometry>
     </Placemark>
     <Placemark>
-      <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>WATTIGNIES 10</name>
-      <description>Restitué le 24.07.2025 — 422 jours</description><MultiGeometry>
-        <Polygon>
-          <tessellate>1</tessellate>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>3.0356705188751225,50.58076366866401,100 3.036432266235352,50.58195928280662,100 3.0368721485137944,50.58277677927742,100 3.037129640579224,50.58273931099947,100 3.0374729561472384,50.582677999207625,100 3.0379343284342535,50.582569000269494,100 3.0384385477996743,50.58243275124204,100 3.0389965370982,50.58226243940337,100 3.039854750566611,50.581962689071375,100 3.040793538093567,50.58161184250928,100 3.0412924289703374,50.58136318268356,100 3.0356705188751225,50.58076366866401,100 </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-          <altitudeMode>relativeToGround</altitudeMode>
-        </Polygon>
-      </MultiGeometry>
-    </Placemark>
-    <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>WATTIGNIES 11</name>
-      <description>Restitué le 21.07.2025 — 425 jours</description><MultiGeometry>
+      <description>Restitué le 21.07.2025 — 429 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1725,22 +1711,8 @@
       </MultiGeometry>
     </Placemark>
     <Placemark>
-      <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>WATTIGNIES 17</name>
-      <description>Restitué le 03.09.2025 — 381 jours</description><MultiGeometry>
-        <Polygon>
-          <tessellate>1</tessellate>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>3.0366146564483643,50.58566855914984,100 3.0376231670379643,50.585307522130215,100 3.0378374179031336,50.58527686791616,100 3.0389804911085037,50.58533817632433,100 3.039039378787236,50.584868143155056,100 3.039178842877193,50.584673997650704,100 3.0386155933558094,50.58451050607885,100 3.037778735160828,50.584503693917675,100 3.037832051362282,50.58468421585512,100 3.0375100589100605,50.584881767370895,100 3.037290030734341,50.584888579477365,100 3.036989504445607,50.584847706823865,100 3.0369465721186732,50.58464334302422,100 3.0365709142577355,50.58465696730514,100 3.0365762807986267,50.584881767370895,100 3.035911917686463,50.5849090157908,100 3.0360406637191777,50.584561597256034,100 3.0358410646993854,50.58451731823901,100 3.0360557263341725,50.584098368555736,100 3.0362864875915956,50.58394849947118,100 3.036383986473084,50.583740725633156,100 3.0360609548904414,50.58366238443984,100 3.0358892255825873,50.58354998163046,100 3.0356490612030034,50.584088150224204,100 3.0354438026903368,50.584609282304726,100 3.035493493080139,50.584817052310456,100 3.0356047989164474,50.58493285814527,100 3.0358153581619267,50.5850929422127,100 3.0366146564483643,50.58566855914984,100 </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-          <altitudeMode>relativeToGround</altitudeMode>
-        </Polygon>
-      </MultiGeometry>
-    </Placemark>
-    <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>WATTIGNIES 19</name>
-      <description>Restitué le 20.06.2025 — 456 jours</description><MultiGeometry>
+      <description>Restitué le 20.06.2025 — 460 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1754,7 +1726,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>WATTIGNIES 20</name>
-      <description>Restitué le 06.08.2025 — 409 jours</description><MultiGeometry>
+      <description>Restitué le 06.08.2025 — 413 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1768,7 +1740,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>WATTIGNIES 25</name>
-      <description>Restitué le 04.06.2025 — 472 jours</description><MultiGeometry>
+      <description>Restitué le 04.06.2025 — 476 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1782,7 +1754,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ffC06515</color><width>2</width></LineStyle><PolyStyle><color>80C06515</color></PolyStyle></Style><name>WATTIGNIES 31</name>
-      <description>Restitué le 05.09.2025 — 379 jours</description><MultiGeometry>
+      <description>Restitué le 05.09.2025 — 383 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1796,7 +1768,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>WATTIGNIES APPT 11</name>
-      <description>Restitué le 08.06.2024 — 833 jours</description><MultiGeometry>
+      <description>Restitué le 08.06.2024 — 837 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1810,7 +1782,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>WATTIGNIES APPT 14</name>
-      <description>Restitué le 22.01.2025 — 605 jours</description><MultiGeometry>
+      <description>Restitué le 22.01.2025 — 609 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1824,7 +1796,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>WATTIGNIES APPT 16</name>
-      <description>Restitué le 20.07.2025 — 426 jours</description><MultiGeometry>
+      <description>Restitué le 20.07.2025 — 430 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1838,7 +1810,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>WATTIGNIES APPT 18</name>
-      <description>Restitué le 27.07.2024 — 784 jours</description><MultiGeometry>
+      <description>Restitué le 27.07.2024 — 788 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1852,7 +1824,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>WATTIGNIES APPT 20</name>
-      <description>Restitué le 27.11.2024 — 661 jours</description><MultiGeometry>
+      <description>Restitué le 27.11.2024 — 665 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1866,7 +1838,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>WATTIGNIES APPT 21</name>
-      <description>Restitué le 27.12.2024 — 631 jours</description><MultiGeometry>
+      <description>Restitué le 27.12.2024 — 635 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1880,7 +1852,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>WATTIGNIES APPT 22</name>
-      <description>Restitué le 08.04.2025 — 529 jours</description><MultiGeometry>
+      <description>Restitué le 08.04.2025 — 533 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1894,7 +1866,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>WATTIGNIES APPT 23</name>
-      <description>Restitué le 08.04.2025 — 529 jours</description><MultiGeometry>
+      <description>Restitué le 08.04.2025 — 533 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1908,7 +1880,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>WATTIGNIES APPT 24</name>
-      <description>Restitué le 03.05.2024 — 869 jours</description><MultiGeometry>
+      <description>Restitué le 03.05.2024 — 873 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1922,7 +1894,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>WATTIGNIES APPT 25</name>
-      <description>Restitué le 25.04.2025 — 512 jours</description><MultiGeometry>
+      <description>Restitué le 25.04.2025 — 516 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
@@ -1936,7 +1908,7 @@
     </Placemark>
     <Placemark>
       <Style><LineStyle><color>ff327D2E</color><width>2</width></LineStyle><PolyStyle><color>80327D2E</color></PolyStyle></Style><name>WATTIGNIES APPT 42</name>
-      <description>Restitué le 17.04.2024 — 885 jours</description><MultiGeometry>
+      <description>Restitué le 17.04.2024 — 889 jours</description><MultiGeometry>
         <Polygon>
           <tessellate>1</tessellate>
           <outerBoundaryIs>
